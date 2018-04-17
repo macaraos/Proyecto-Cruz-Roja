@@ -87,13 +87,13 @@ Realizamos testeos de guerrilla en donde pudimos iterar el producto hasta llegar
 <img src="https://macaraos.github.io/Proyecto-Cruz-Roja/img/mvp.jpg"
 </p>
   
+[Ver el MVP](https://marvelapp.com/cc9ifee/screen/40642655)
+  
 ## DESARROLLO DE ASISTENTE VIRTUAL COGNITOVO
 
 Para poder desarrollar el proyecto de asistente virtual se utilizan otras tecnologías de IBM. Watson assistant para crear el flujo y contenido de los diálogos, Node-RED como herramienta de desarrollo que permite conectar la API de Watson Assistant con nuestra aplicación web, la que se interrumpe en la página como un iframe. La aplicación web fue desarrollada con Javascript y jQuery, ademas de bootstrap 4 como framework.
 
-
-[Ver el MVP](https://marvelapp.com/cc9ifee/screen/40642655)
-
+[Ver el Chat Bot](https://barrigamjgomez.github.io/chatbot_ibm/)
 
 ### EQUIPO
 **UX DESIGNER**
